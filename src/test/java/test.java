@@ -17,7 +17,6 @@ public class test {
         System.out.println(s);
         System.out.println("okok");
         driver.quit();
-        System.out.println("Git Test");
     }
 
 }
